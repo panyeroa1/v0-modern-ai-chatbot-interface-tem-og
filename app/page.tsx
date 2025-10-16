@@ -1,5 +1,5 @@
-import AIAssistantUI from "../components/AIAssistantUI"
+import VibeCodingApp from "../components/VibeCodingApp"
 
 export default function Page() {
-  return <AIAssistantUI />
+  return <VibeCodingApp />
 }
