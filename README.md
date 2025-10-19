@@ -122,6 +122,14 @@ For development with hot-reloading:
 pnpm run dev
 \`\`\`
 
+### Restarting the Application
+To restart the application (works with PM2, Docker, and direct Next.js):
+\`\`\`bash
+npm run restart
+\`\`\`
+
+See [RESTART_GUIDE.md](./RESTART_GUIDE.md) for detailed restart instructions.
+
 ## Database Setup
 
 Run the SQL migration scripts in order:

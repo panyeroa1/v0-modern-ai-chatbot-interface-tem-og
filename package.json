@@ -6,7 +6,8 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "eslint .",
-    "start": "next start"
+    "start": "next start",
+    "restart": "bash scripts/restart-app.sh"
   },
   "overrides": {
     "vaul": "^1.1.2"
